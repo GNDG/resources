@@ -1,11 +1,13 @@
 # Python 
 Python is an easy to learn language many beginners to coding choose as their first programming language and it is not limited to web development, as you can build games and applications for academical research with it. If you are new to programming or simply interested in learning Python, here are some resources you can use.
+
 ## Platform for Python Tutorials
   - [Bucky's Room](https://buckysroom.org/videos.php?cat=98)
   - [Think Python](http://www.greenteapress.com/thinkpython/)
   - [Learn Python](http://www.learnpython.org/)
   - [Python for You and Me](http://pymbook.readthedocs.org/en/py3/)
   - [Learn Python the Hard Way](http://learnpythonthehardway.org/book/)
+
 ## General Topics for Beginners
   - [Python Tutorials for Beginners and Programmers ](https://www.codementor.io/python/tutorial)
   - [Python Beginner Tutorial: for Loops and Iterators](https://www.codementor.io/python/tutorial/python-generators-and-iterators)
@@ -23,12 +25,14 @@ Python is an easy to learn language many beginners to coding choose as their fir
   - [Martijn Pieters on the Future of Django](https://www.codementor.io/python/tutorial/martijn-pieters-future-django)
   - [Python Internals: Codementor Office Hours with Martijn Pieters](https://www.codementor.io/python/tutorial/python-internals-codementor-office-hours-martijn-pieters)
   - [Building a Simple Snake Game with Python](https://www.codementor.io/python/tutorial/build-snake-game-using-curses)
+
 ## Data Science with Python
   - [Data Frames with Python & R](https://www.codementor.io/python/tutorial/python-vs-r-for-data-science-data-frames-i), [Part 2](https://www.codementor.io/python/tutorial/python-vs-r-data-science-data-frames-ii)
   - [Exploratory Data Analysis](https://www.codementor.io/python/tutorial/data-science-python-r-exploratory-data-analysis-visualization)
   - [Dimension Reduction & Clustering](https://www.codementor.io/python/tutorial/data-science-python-pandas-r-dimensionality-reduction)
   - [Sentiment Classification Using Linear Methods](https://www.codementor.io/python/tutorial/data-science-python-r-sentiment-classification-machine-learning)
   - [Building a Wine Review & Recommendation Site with Django](https://www.codementor.io/python/tutorial/get-started-with-django-building-recommendation-review-app), [Part 2](https://www.codementor.io/python/tutorial/build-data-product-django-user-management), [Part 3](https://www.codementor.io/python/tutorial/build-data-products-django-machine-learning-clustering-user-preferences)
+
 ## Python & Apache Spark
   - [Getting Data into the basic Spark data structure: Resilient Distributed Datasets](https://www.codementor.io/spark/tutorial/spark-python-rdd-basics), [Part 2](https://www.codementor.io/spark/tutorial/spark-python-data-aggregations)
   - [Machine Learning Library (MLlib) Basic Statistics & Exploratory Data Analysis](https://www.codementor.io/spark/tutorial/mllib-basic-statistics-exploratory-data-analysis)
@@ -36,6 +40,7 @@ Python is an easy to learn language many beginners to coding choose as their fir
   - [MLlib Decision Trees](https://www.codementor.io/spark/tutorial/spark-python-mllib-decision-trees)
   - [SQL & DataFrames](https://www.codementor.io/spark/tutorial/python-spark-sql-dataframes)
   - [Building a Movie Recommendation Service with Apache Spark & Flask](https://www.codementor.io/spark/tutorial/building-a-recommender-with-apache-spark-python-example-app-part1), [Part 2](https://www.codementor.io/spark/tutorial/building-a-web-service-with-apache-spark-flask-example-app-part2)
+
 ## Tips
   - [Creating An Asset Pipeline in Python](https://www.codementor.io/python/tutorial/creating-an-asset-pipeline-in-python-with-paver)
   - [Caching Angular Partials with Python](https://www.codementor.io/python/tutorial/html-optimization-caching-angularjs-partials-templates)
@@ -50,12 +55,15 @@ Python is an easy to learn language many beginners to coding choose as their fir
   - [Why does python's struct think little-endian and big-endian imply different lengths?](https://www.codementor.io/tips/0818274433/why-does-python-s-struct-think-little-endian-and-big-endian-imply-different-lengths)
   - [Comparing two class types in python](https://www.codementor.io/tips/6130438872/comparing-two-class-types-in-python)
   - [How can I get Travis-CI to recognize and open external files during testing](https://www.codementor.io/tips/8102473038/how-can-i-get-travis-ci-to-recognize-and-open-external-files-during-testing)
+
 ## Videos
   - [Carte-Blanche, a Django Permission Framework for Rapid Prototyping, with its creator, Eric Neuman ](https://www.codementor.io/officehours/6962831504/carte-blanche-a-django-permission-framework-for-rapid-prototyping-with-its-creator-eric-neuman)
   - [Introduction to Machine Learning & NLP: Building a Spam Classifier](https://www.codementor.io/officehours/1385095426/building-a-spam-classifier)
   - [Stack Overflow Legend Martijn Pieters: Python Optimization and How it Can Affect Your Code](https://www.codementor.io/officehours/9015644327/stack-overflow-legend-martijn-pieters-python-optimization-and-how-it-can-affect-your-code)
+
 ## Documentations
   - [Python Documentations](https://www.python.org/doc/)
+
 ## Courses
   - [Live Python Class](https://www.codementor.io/classes/learn-python-live)
   - [MIT Introduction to Computer Science and Programming](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/)
@@ -63,6 +71,7 @@ Python is an easy to learn language many beginners to coding choose as their fir
   - [Google's Python Class](https://developers.google.com/edu/python/?hl=de-DE&csw=1)
   - [Intro to Computer Science](https://www.udacity.com/course/ud036)
   - [Code School's Try Python](https://www.codeschool.com/courses/try-python)
+
 ## Developer Tools
   - [PythonAnywhere](https://www.pythonanywhere.com/)
   - [PyDev](http://pydev.org/)
