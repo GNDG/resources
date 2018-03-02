@@ -1,3 +1,3 @@
 # resources
 
-[Python](../resources/blob/master/Python.md)
+[Python](../blob/master/Python.md)
